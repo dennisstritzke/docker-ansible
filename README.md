@@ -1,6 +1,8 @@
 # docker-ansible
 A Docker Image, which contains Ansible, curl, wget, unzip and ssh.
 
+The image tag refers to the Ansible version that is installed.
+
 | Application | Version |
 |-------------|---------|
 | Ansible | 1.9.2 |
