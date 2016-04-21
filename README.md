@@ -5,7 +5,7 @@ The image tag refers to the Ansible version that is installed.
 
 | Application | Version |
 |-------------|---------|
-| Ansible | 2.0.0.2 |
+| Ansible | 2.0.2.0 |
 | curl | 7.43.0 |
 | wget | 1.16.1 |
 | unzip | 6.00 |
